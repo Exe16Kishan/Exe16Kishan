@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently diving into the world of deep learning and AI wizardry.<br>👯 Always up for collaborating on futuristic AI or ML projects.<br>🤝 Could use some tips on fine-tuning those neural networks.<br>🌱 Mastered full-stack dev, now leveling up with AI magic.<br>💬 Ask me about full-stack dev, React, or how AI could automate your life.<br>⚡ Fun fact: I lift weights, code, and dream of training my own GPT. 💪🤖
+🔭 Currently diving into the world of deep learning and AI wizardry.
 
 
 ## 🌐 Socials:
