@@ -7,6 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kishan.k.dev.engineer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kumar-dev100x/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Exe16Kishan)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/its_executioner)
 
 </div>
@@ -17,12 +18,15 @@
 
 I'm a full-stack developer who likes building complete products, not just one layer of the stack — database, API, web, and mobile. My recent projects run on **Next.js, Express, Prisma, and PostgreSQL**, and I'm actively deepening my **DevOps and infrastructure** skills (Docker, AWS, Nginx) so what I build is closer to something a team could actually deploy and operate, not just a demo.
 
-I've also sent contributions upstream to **[Auth.js / next-auth](https://github.com/nextauthjs/next-auth)**, the authentication library used across thousands of Next.js and Express projects — good practice in reading and working inside a large, real-world codebase rather than only my own.
+I've also contributed to widely-used open-source authentication libraries (see below) with tens of thousands of stars combined — comfortable reading and working inside large, real-world codebases, not just my own projects.
 
 - 💻 Comfortable end-to-end: Next.js/React on the frontend, React Native + Expo on mobile, Node/Express + PostgreSQL on the backend
 - 🐳 Currently sharpening Docker, AWS, and Nginx for deploying and running production-grade systems
 - 🧱 Prefer structuring projects as monorepos with shared packages instead of duplicating logic across apps
+- 🌍 Contributor to open-source projects used by thousands of developers
 - 📍 Based in India
+
+**If you're hiring for a full-stack role and my stack lines up with your team's, my inbox is open — 📧 kishan.k.dev.engineer@gmail.com**
 
 ---
 
@@ -70,6 +74,11 @@ A web app for sharing and donating surplus food, built with Next.js on top of a 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS` `shadcn/ui`
 🔗 [Live demo](https://foodshare-two.vercel.app)
 
+### Campus Collab
+A collaboration platform for campus projects and teams, with GenAI-powered features baked into the workflow. Currently a private repository.
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `GenAI`
+🔗 [Live demo](https://campus-collab-gamma.vercel.app/dashboard)
+
 ### [Personal Portfolio](https://github.com/Exe16Kishan/portfolio)
 My developer portfolio site, built with Next.js and containerized with Docker for consistent, repeatable deployment.
 `Next.js` `TypeScript` `Docker`
@@ -87,9 +96,13 @@ A pixel-detailed, animation-heavy landing page clone built with vanilla JavaScri
 
 ---
 
-## 🌍 Open Source
+## 🌍 Open Source Contributions
 
-I've contributed documentation improvements to **[Auth.js (next-auth)](https://github.com/nextauthjs/next-auth)**, covering role-based authentication and TypeScript session typing for Express apps — helping other developers wire up auth correctly in their own projects.
+| Project | Stars | Pull Request |
+|---|---|---|
+| [Auth.js / next-auth](https://github.com/nextauthjs/next-auth) | ⭐ 28.3k | [#12590](https://github.com/nextauthjs/next-auth/pull/12590) |
+| [Better-Auth](https://github.com/better-auth/better-auth) | ⭐ 28.9k | [#1776](https://github.com/better-auth/better-auth/pull/1776) |
+| [GitHub Resume Generator](https://github.com/omeryaldirgan/github-resume-generator) | — | [#3](https://github.com/omeryaldirgan/github-resume-generator/pull/3) |
 
 ---
 
@@ -104,4 +117,4 @@ I've contributed documentation improvements to **[Auth.js (next-auth)](https://g
 
 I'm currently looking for full-stack developer opportunities — if my work lines up with what your team is building, I'd love to talk.
 
-📧 **kishan.k.dev.engineer@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/kishan-kumar-dev100x/) · 🐦 [X](https://x.com/its_executioner)
+📧 **kishan.k.dev.engineer@gmail.com** · 🔗 [GitHub](https://github.com/Exe16Kishan) · 🔗 [LinkedIn](https://www.linkedin.com/in/kishan-kumar-dev100x/) · 🐦 [X](https://x.com/its_executioner)
