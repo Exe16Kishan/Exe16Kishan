@@ -65,6 +65,11 @@ I've also contributed to widely-used open-source authentication libraries (see b
 
 ## 🚀 Featured Projects
 
+### [Scribble](https://github.com/Exe16Kishan/Scribble)
+#### Building ...... 
+its a game where users guess a random name of thing by drawing in a canvas with a given period of time . 
+`Next.js` `Express` `PostgreSQL` `Prisma`  `TypeScript` `websocket`
+
 ### [RideShare](https://github.com/Exe16Kishan/Ride-Share)
 A full-stack ride-sharing platform built as a **Turborepo monorepo** — a Next.js web app, a React Native (Expo) mobile app, and an Express API, all sharing common auth, database, and API packages instead of duplicating logic across apps.
 `Next.js` `React Native` `Expo` `Express` `PostgreSQL` `Prisma` `Better-Auth` `TypeScript` `Turborepo`
