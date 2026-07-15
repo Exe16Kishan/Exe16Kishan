@@ -107,6 +107,8 @@ A pixel-detailed, animation-heavy landing page clone built with vanilla JavaScri
 |---|---|---|
 | [Auth.js / next-auth](https://github.com/nextauthjs/next-auth) | ⭐ 28.3k | [#12590](https://github.com/nextauthjs/next-auth/pull/12590) |
 | [Better-Auth](https://github.com/better-auth/better-auth) | ⭐ 28.9k | [#1776](https://github.com/better-auth/better-auth/pull/1776) |
+| [Mail-0 / Zero](https://github.com/Mail-0/Zero) | ⭐ 10.6k | [#103](https://github.com/Mail-0/Zero/pull/103) — Added Draft component with edit/remove/save functionality and a responsive, polished UI |
+| [Mail-0 / Zero](https://github.com/Mail-0/Zero) | ⭐ 10.6k | [#46](https://github.com/Mail-0/Zero/pull/46) — Added test routes and state management for active/inactive sidebar navigation links |
 | [GitHub Resume Generator](https://github.com/omeryaldirgan/github-resume-generator) | — | [#3](https://github.com/omeryaldirgan/github-resume-generator/pull/3) |
 
 ---
