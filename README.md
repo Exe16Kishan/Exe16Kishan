@@ -1,6 +1,4 @@
 <div align="center">
-
-# Hi, I'm Kishan 👋
 ### Full-Stack Developer — Next.js · Node.js · PostgreSQL · DevOps
 
 **🟢 Open to full-stack developer roles**
