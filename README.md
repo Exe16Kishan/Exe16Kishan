@@ -1,5 +1,6 @@
 <div align="center">
-### Full-Stack Developer — Next.js · Node.js · PostgreSQL · DevOps
+  
+## Full-Stack Developer — Next.js · Node.js · PostgreSQL · DevOps
 
 **🟢 Open to full-stack developer roles**
 
