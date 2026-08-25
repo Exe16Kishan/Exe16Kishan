@@ -119,9 +119,3 @@ A pixel-detailed, animation-heavy landing page clone built with vanilla JavaScri
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Exe16Kishan&layout=compact&theme=default&hide_border=true)
 
 ---
-
-## 📫 Let's Connect
-
-I'm currently looking for full-stack developer opportunities — if my work lines up with what your team is building, I'd love to talk.
-
-📧 **kishan.k.dev.engineer@gmail.com** · 🔗 [GitHub](https://github.com/Exe16Kishan) · 🔗 [LinkedIn](https://www.linkedin.com/in/kishan-kumar-dev100x/) · 🐦 [X](https://x.com/its_executioner)
